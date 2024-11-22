@@ -15,6 +15,6 @@ entries:
     sources:
     - https://github.com/stefanprodan/podinfo
     urls:
-    - https://github.com/mitzenjeremywoo/podinfo-chart/podinfo-6.3.6.tgz
+    - https://mitzenjeremywoo.github.io/podinfo-chart/podinfo-6.3.6.tgz
     version: 6.3.6
 generated: "2024-11-23T06:32:45.9870536+13:00"
